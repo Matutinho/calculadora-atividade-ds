@@ -1,0 +1,15 @@
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\bin\Debug\net6.0\CalculadoraDS.exe
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\bin\Debug\net6.0\CalculadoraDS.deps.json
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\bin\Debug\net6.0\CalculadoraDS.runtimeconfig.json
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\bin\Debug\net6.0\CalculadoraDS.dll
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\bin\Debug\net6.0\CalculadoraDS.pdb
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\CalculadoraDS.csproj.AssemblyReference.cache
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\CalculadoraDS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\CalculadoraDS.AssemblyInfoInputs.cache
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\CalculadoraDS.AssemblyInfo.cs
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\CalculadoraDS.csproj.CoreCompileInputs.cache
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\CalculadoraDS.dll
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\refint\CalculadoraDS.dll
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\CalculadoraDS.pdb
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\CalculadoraDS.genruntimeconfig.cache
+D:\Calculadora\CalculadoraSolucao\CalculadoraDS\obj\Debug\net6.0\ref\CalculadoraDS.dll
